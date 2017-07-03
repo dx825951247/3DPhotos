@@ -1,5 +1,4 @@
-# demo
+# 3DPhotps
 github学习
 
-创建一个仓库
-仓库修改
+创建3DPhotos
